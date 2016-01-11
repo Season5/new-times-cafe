@@ -1,0 +1,16 @@
+#food {
+	border: #f12a2a double 0px;
+	position: absolute;
+	top:130px;
+	left:390px;
+     }
+body{
+
+	font-family: caviar dreams;
+}
+#comments{
+	border: #f12a2a double 3px;
+	position: absolute;
+	top:1500 px;
+	
+}
