@@ -10,7 +10,7 @@ body{
 	border: solid 4px #4c2107;
     background-color: white;
 	font-family: caviar dreams;
-	padding-bottom: 4500px;
+	padding-bottom: 6000px;
 	color: #4c2107;
 	
 
@@ -18,7 +18,7 @@ body{
 img{
 	border: #e24444 solid 0px;
 	position: fixed;
-	left:450px;
+	left:10px;
 	margin-top: 0px;
 	
 }
@@ -70,6 +70,10 @@ span{
 ul{
 	list-style-type: circle;
 }
-a{
+a:link{
 	color:#4c2107;
+	text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
 }
