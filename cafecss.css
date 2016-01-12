@@ -1,16 +1,75 @@
 #food {
 	border: #f12a2a double 0px;
 	position: absolute;
-	top:130px;
-	left:390px;
-     }
+	top:125px;
+	left:500px;
+	
+}
+     
 body{
-
+	border: solid 4px #4c2107;
+    background-color: white;
 	font-family: caviar dreams;
+	padding-bottom: 4500px;
+	color: #4c2107;
+	
+
+}
+img{
+	border: #e24444 solid 0px;
+	position: fixed;
+	left:450px;
+	margin-top: 0px;
+	
 }
 #comments{
-	border: #f12a2a double 3px;
+	border:#e62d2d dotted 0px;
 	position: absolute;
-	top:1500 px;
+	top:800px;
+	left:125px;
+	margin-right: 120px;
+}
+h3{
+	font-weight: bold;
+}
+
+h1{
+	font-style: oblique;
+	font-size:50px;
+	border: #e52d2d dashed 0px;
+	background-color: #4c2107;
+	position: fixed;
+	text-align: center;
+	top:0px;
+	left:0px;
+	margin-top: 0px;
+	color: white;
+	right: 0px;
+	border-bottom: 200px;
+  
 	
+}
+#drink{
+	border: #a83030 dotted 0px;
+	left:125px;
+	top:125px;
+	position: absolute;
+}
+span{
+	font-size: 20px;
+	color: white;
+	text-align: right;
+	margin-right: 0px;
+	text-align: left;
+}
+.about{
+	border: #d73030 solid 2px;
+	position: absolute;
+	top:2000px;
+}
+ul{
+	list-style-type: circle;
+}
+a{
+	color:#4c2107;
 }
