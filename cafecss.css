@@ -77,3 +77,7 @@ a:link{
 a:hover{
 	text-decoration: underline;
 }
+a:visited{
+	text-decoration: none;
+	color:none;
+}
